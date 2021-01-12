@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Corona disebabkan oleh virus yang bernama ?",
+    "choice1": "Covid-19",
+    "choice2": "HIV",
+    "choice3": "Ebola",
+    "choice4": "Dengue",
+    "answer": 1
+  },
+  {
+    "question": "Siapa nama pembuat website ini ?",
+    "choice1": "Etha",
+    "choice2": "Melsha",
+    "choice3": "Sarah",
+    "choice4": "Julio",
+    "answer": 4
+  },
+  {
+    "question": "Apa itu Virus ?",
+    "choice1": "Bakteri",
+    "choice2": "Hewan",
+    "choice3": "Tumbuhan",
+    "choice4": "Manusia",
+    "answer": 2
+  }
+]
